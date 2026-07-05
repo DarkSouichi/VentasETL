@@ -13,10 +13,6 @@ SalesETL/
 │   ├── ETL.Core/          # Modelos, interfaces, DTOs
 │   ├── ETL.Data/          # Loaders, helpers de BD y CSV
 │   └── ETL.Console/       # Punto de entrada, DI, orquestación
-├── database/
-│   ├── 01_create_database.sql          # De la Práctica 1
-│   └── 02_stored_procedures_views.sql  # SPs, Vistas, Consultas
-└── README.md
 ```
 
 ## Configuración antes de ejecutar
